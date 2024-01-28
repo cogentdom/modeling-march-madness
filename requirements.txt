@@ -3,3 +3,8 @@ matplotlib
 pandas
 seaborn
 kaggle
+redis
+scikit-learn
+plotly
+xgboost
+
